@@ -58,10 +58,4 @@ def to_base(n, base):
     return result
 
 
-# Quick check
-print(gcd(12, 18))
-print(is_prime(17))
-print(factorial(5))
-print(fibonacci(7))
-print(reverse_number(123))
-print(to_base(10, 2))
+
